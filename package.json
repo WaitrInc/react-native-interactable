@@ -1,20 +1,20 @@
 {
-  "name": "react-native-interactable",
+  "name": "@waitr/react-native-interactable",
   "version": "0.1.10",
-  "description": "High performance interactable views in React Native",
+  "description": "High performance interactable views in React Native. This is a fork to resolve a couple of issues in the library.",
   "license": "MIT",
   "author": "Tal Kol <talkol@gmail.com>",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
   "bugs": {
-    "url": "https://github.com/wix/react-native-interactable/issues"
+    "url": "https://github.com/WaitrInc/react-native-interactable/issues"
   },
-  "homepage": "https://github.com/wix/react-native-interactable",
-  "readme": "https://github.com/wix/react-native-interactable#readme",
+  "homepage": "https://github.com/WaitrInc/react-native-interactable",
+  "readme": "https://github.com/WaitrInc/react-native-interactable#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wix/react-native-interactable.git"
+    "url": "https://github.com/WaitrInc/react-native-interactable.git"
   },
   "main": "lib/index.js",
   "scripts": {
